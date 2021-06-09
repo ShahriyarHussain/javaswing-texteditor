@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6640484-dd0f-4f28-b44b-e83263e247f3" name="Default Changelist" comment="Completed Text Editor with multi threading search functionality">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaswing-texteditor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaswing-texteditor/editor/TextEditor$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaswing-texteditor/editor/TextEditor$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/load.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/previous.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ApplicationRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/editor/ApplicationRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/editor/TextEditor.java" afterDir="false" />
+    </list>
+    <list id="74359fb9-50ae-40f4-984b-3f32205a0eb3" name="Changes by Zulfikar" comment="">
+      <change beforePath="$PROJECT_DIR$/src/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/editor/TextEditor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/editor/TextEditor.java">
+      <ranges>
+        <range start1="8" end1="8" start2="8" end2="13" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="14" end1="14" start2="19" end2="22" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="85" end1="86" start2="93" end2="95" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="87" end1="88" start2="96" end2="97" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="90" end1="93" start2="99" end2="102" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="94" end1="95" start2="103" end2="104" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="103" end1="104" start2="112" end2="114" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="105" end1="106" start2="115" end2="116" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="107" end1="108" start2="117" end2="117" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="109" end1="111" start2="118" end2="120" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="112" end1="113" start2="121" end2="122" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="114" end1="115" start2="123" end2="123" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="116" end1="117" start2="124" end2="127" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="118" end1="119" start2="128" end2="129" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="120" end1="121" start2="130" end2="131" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="126" end1="126" start2="136" end2="200" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="145" end1="146" start2="219" end2="219" changelist="74359fb9-50ae-40f4-984b-3f32205a0eb3" />
+        <range start1="149" end1="149" start2="222" end2="308" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="177" end1="192" start2="336" end2="355" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+        <range start1="205" end1="205" start2="368" end2="375" changelist="f6640484-dd0f-4f28-b44b-e83263e247f3" />
+      </ranges>
+    </file>
+  </component>
+  <component name="ProjectId" id="1thk3dPmXlYHVlPTitxhQibtmbK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shoss\Desktop\Repos\javaswing-texteditor\.idea" />
+      <recent name="C:\Users\shoss\Desktop\Repos\javaswing-texteditor" />
+      <recent name="C:\Users\shoss\Desktop\Repos\javaswing-texteditor\src\editor" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApplicationRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="editor.ApplicationRunner" />
+      <module name="javaswing-texteditor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="editor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6640484-dd0f-4f28-b44b-e83263e247f3" name="Default Changelist" comment="" />
+      <created>1623228510942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623228510942</updated>
+      <workItem from="1623228513654" duration="13067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed Text Editor with multi threading search functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Text Editor with multi threading search functionality" />
+  </component>
+</project>
